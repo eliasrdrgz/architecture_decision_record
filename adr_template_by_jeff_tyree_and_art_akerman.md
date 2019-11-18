@@ -1,4 +1,4 @@
-# ADR template by Jeff Tyree and Art Akerman
+# ADR template by Jeff Tyree and Art Akerman 
 
 This is the Architecture decision description template published in ["Architecture Decisions: Demystifying Architecture" by Jeff Tyree and Art Akerman, Capital One Financial](https://www.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf).
 
